@@ -37,3 +37,4 @@ This repository was partly supported by Conselleria de Educación, Investigació
 - Csaba Pinter (Ebatinca)
 - Márk Gerencsér (Ebatinca)
 - Fernando Hueso-González (IFIC, CSIC - Universitat de València)
+- Declan Garvey (IFIC, CSIC - Universitat de València)
